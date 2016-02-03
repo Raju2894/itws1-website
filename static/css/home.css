@@ -1,0 +1,69 @@
+
+body 
+{
+ background-image:url('../images/firefox.png');
+}
+
+#container     
+{
+background-color:grey; 
+ul
+{
+list-style-type:none;
+margin:12;
+padding:10;
+padding-top:50px;
+padding-bottom:50px;
+}
+}
+#header 
+{background-color:#DCDCDC;
+h1{margin-bottom:0;
+text-align:center;}
+}
+#Notifications
+{
+color:grey;
+border:4px;
+background-color:red;
+float:left;}
+#content
+{
+color:990099;
+border:10px;
+background-color:#FFFFFF;
+height:600px;
+width:300px;
+float:left;
+}
+#footer
+{color:red;
+background-color:#00FFFF;
+clear:both;
+text-align:center;
+}
+li 
+{
+display:inline;
+text-align:right;
+}
+a:link,a:visited
+{
+	font-weight:bold;
+color:#E0E0E0;
+      background-color:#FF0000;
+      text-align:center;
+padding:6px;
+	text-decoration:none;
+	text-transform:uppercase;
+}
+a:hover,a:active
+{
+	background-color:#000000;
+}
+#pix 
+{
+color:00FFFF;
+
+}
+
